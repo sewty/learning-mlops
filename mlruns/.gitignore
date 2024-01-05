@@ -1,0 +1,2 @@
+# ignore large files
+models/*.pt
